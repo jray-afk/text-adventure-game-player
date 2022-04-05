@@ -1,0 +1,6 @@
+id,description,prompt,children
+0,Go to the room,You arrive in the room.,1;2;3
+1,Sit on the chair,You are sitting on the chair.,2;3
+2,Run from the room,You are in the hallway.,0
+3,Hide under the table,You are under the table.,1;2;4
+4,Open secret door,You opened the secret door. You made it out!,
