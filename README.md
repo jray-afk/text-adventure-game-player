@@ -1,5 +1,5 @@
 # Text Adventure Game Player
-An engine to create a simple text-based adventure game.
+An engine to create a simple text-based adventure game, modeling the traversal of events in the game with a graph.
 
 An example playing a room escape game:
 
