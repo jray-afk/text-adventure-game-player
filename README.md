@@ -12,6 +12,9 @@ The entry point to your game, the first event that the Event Player plays, is th
 
 Your game will exit successfully if the player reaches a terminal event, i.e. the event has no children defined in the "children" field.
 
+# Running
+Run your adventure game by running the `src/main/java/Main.java` file using Gradle.
+
 # Development
 Developed in Java using IntelliJ IDEA and built using Gradle.
 
